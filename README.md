@@ -1,0 +1,1 @@
+Kotlin-based Notes App utilizing the MVVM architecture and Room Database, allowing users to seamlessly add, update, search, and delete notes. This project demonstrates strong proficiency in Android app development, database integration, and architectural design
